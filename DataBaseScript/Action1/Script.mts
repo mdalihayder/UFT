@@ -3,8 +3,9 @@
 																		'Data Base Connection
 '******************************************************************************************************************************************************************************************************************************************************
 
-
 'Option Explicit Force variable declaration
+'Option Explicit Force variable declaration
+
 Option Explicit
 
 Function FnDataBase(TestValue)
